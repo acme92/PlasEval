@@ -1,4 +1,0 @@
-compare_sets - INFO - Maximum possible matchings: 1
-compare_sets - INFO - Time taken: 0.0
-compare_sets - INFO - Number of function calls: 5
-compare_sets - INFO - {'C1': ([['C1', 0, 1]], [['C1', 0, 1]]), 'C2': ([['C2', 0, 2]], [['C2', 0, 2]]), 'C3': ([['C3', 1, 1]], [['C3', 0, 3]]), 'C6': ([['C6', 1, 2]], [['C6', 1, 3]]), 'C7': ([['C7', 1, 3]], [['C7', 1, 4]])}
