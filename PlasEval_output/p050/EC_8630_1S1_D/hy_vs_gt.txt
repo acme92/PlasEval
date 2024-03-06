@@ -1,0 +1,7 @@
+Total_ctg_length	520894
+Total_ctg_length_alpha	5697.201894186639
+Cuts_cost	0.0
+Joins_cost	863.6675228732067
+Unique_left_ctgs	1460.3325499928694
+Unique_right_ctgs	399.3656384603642
+Dissimilarity_score	0.4780181151918334
