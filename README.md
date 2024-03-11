@@ -4,8 +4,12 @@
 
 This branch contains the input and output of the experiments with 54 *E. coli* bacterial samples. 
 
-Short read assemblies for these samples were used as input for the plasmid binning tools. Contigs from hybrid assemblies for these samples that were at most 500000 bp long were used as the ground truth plasmids.
-Short read contigs were mapped onto the hybrid "plasmid" contigs using BLAST to obtain the ground truth plasmid bins. The output for the BLAST mapping between the short read and hybrid assemblies for each sample has also been provided. 
+Short read assemblies for these samples were used as input for the plasmid binning tools. 
+Contigs from hybrid (short reads and long reads) assemblies for these samples that were at most 500,000 bp long were used as the ground truth plasmids.
+Short read contigs were mapped onto the hybrid "plasmid" contigs using BLAST to obtain the ground truth plasmid bins. 
+The output for the BLAST mapping between the short read and hybrid assemblies for each sample has also been provided. 
+
+Short reads and hybrid assemblies are available at: https://erc.europa.eu/sites/default/files/2022-10/erc_2022_syg.pdf
 
 ## Scripts
 Two scripts have been provided for formatting the results of the binning tools used in the experiments as well the results of the BLAST mapping to generate the ground truth bins.
