@@ -9,7 +9,7 @@ Contigs from hybrid (short reads and long reads) assemblies for these samples th
 Short read contigs were mapped onto the hybrid "plasmid" contigs using BLAST to obtain the ground truth plasmid bins. 
 The output for the BLAST mapping between the short read and hybrid assemblies for each sample has also been provided. 
 
-Short reads and hybrid assemblies are available at: https://erc.europa.eu/sites/default/files/2022-10/erc_2022_syg.pdf
+Short reads and hybrid assemblies are available at: https://zenodo.org/records/10785151
 
 ## Scripts
 Two scripts have been provided for formatting the results of the binning tools used in the experiments as well the results of the BLAST mapping to generate the ground truth bins.
